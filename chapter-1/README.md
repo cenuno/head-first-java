@@ -7,6 +7,10 @@ This chapter is the introductory chapter of the book.
 Then you can run
 
 ```bash
+# compile the .java file into bytecode
 javac Dog.java
+# view the compiled code
+javap -c Dog.class
+# run the program by starting the JVM and translating the bytecode
 java Dog
 ```
