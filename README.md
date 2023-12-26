@@ -1,6 +1,8 @@
 # head-first-java
 A repo of me learning java from the Head First Java book
 
+You can purchase a [copy of the book here](https://www.oreilly.com/library/view/head-first-java/9781492091646/).
+
 ## Managing Java Versions
 
 This repo uses [sdkman](https://sdkman.io/usage) to handle Java versions.
