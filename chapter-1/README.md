@@ -14,3 +14,7 @@ javap -c Dog.class
 # run the program by starting the JVM and translating the bytecode
 java Dog
 ```
+
+## Understanding how this works
+
+Running a program means telling the Java Virtual Machine (JVM) to “Load the desired class, then start executing its `main()`` method. Keep running ’til all the code in main is finished.”
